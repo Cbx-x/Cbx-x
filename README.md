@@ -188,30 +188,6 @@ me = CibinD()
 
 ---
 
-## 📊 Cyber Security Dashboard
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cbx-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Cbx-x&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbx-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Cbx-x&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
-
-</div>
-
----
-
-## 📈 Contribution Dashboard
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cbx-x&theme=tokyo-night&hide_border=true&radius=15&area=true"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
