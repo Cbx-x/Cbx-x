@@ -30,35 +30,35 @@
 
 ```yaml
 ┌─────────────────────────────────────────────────────┐
-│                                                       │
-│   CIBIN D                                            │
-│   Cyber Security Engineer · Security Researcher      │
-│   Software Developer                                 │
-│                                                       │
-│   ───────────────────────────────────────────────    │
-│                                                       │
-│   STATUS      : GRADUATED ✓                          │
-│   LOCATION    : Bengaluru, India                      │
-│   DEGREE      : B.E Computer Science Engineering      │
-│                 (IoT & Cybersecurity with Blockchain) │
-│                                                       │
-│   ───────────────────────────────────────────────    │
-│                                                       │
-│   SPECIALIZATION :                                    │
-│     • Application Security                            │
-│     • Cloud Security                                  │
-│     • Network Security                                 │
-│     • AI Security                                      │
-│     • IoT Security                                     │
-│     • Vulnerability Assessment                          │
-│     • Penetration Testing                               │
-│                                                       │
-│   ───────────────────────────────────────────────    │
-│                                                       │
-│   >> BUILDING......                                   │
-│   >> LEARNING.......                                  │
-│   >> SECURING.......                                  │
-│                                                       │
+│                                                     │
+│   CIBIN D                                           │
+│   Cyber Security Engineer · Security Researcher     │
+│   Software Developer                                │
+│                                                     │
+│   ───────────────────────────────────────────────   │
+│                                                     │
+│   STATUS      : GRADUATED ✓                         │
+│   LOCATION    : Bengaluru, India                    │
+│   DEGREE      : B.E Computer Science Engineering    │
+│                 (IoT & Cybersecurity with Blockchain)│
+│                                                     │
+│   ───────────────────────────────────────────────   │
+│                                                     │
+│   SPECIALIZATION :                                  │
+│     • Application Security                          │
+│     • Cloud Security                                │
+│     • Network Security                              │
+│     • AI Security                                   │
+│     • IoT Security                                  │
+│     • Vulnerability Assessment                      │
+│     • Penetration Testing                           │
+│                                                     │
+│   ───────────────────────────────────────────────   │
+│                                                     │
+│   >> BUILDING......                                 │
+│   >> LEARNING.......                                │
+│   >> SECURING.......                                │
+│                                                     │
 └─────────────────────────────────────────────────────┘
 ```
 
