@@ -306,23 +306,354 @@ RESEARCHING.....
 ---
 
 
+# Cyber Security Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cbx-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Cbx-x&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbx-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Cbx-x&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+
+</div>
+
+
+---
+
+# Contribution Dashboard
+
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cbx-x&theme=tokyo-night&hide_border=true&radius=15&area=true"/>
+
+</div>
+
+
+---
+
+
+# Profile Statistics
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Cbx-x&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/Cbx-x?style=for-the-badge&color=blue&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/Cbx-x?style=for-the-badge&color=blue&label=TOTAL+STARS"/>
+
+</div>
+
+
+---
+
+# Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cbx-x/Cbx-x/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# Featured Projects
+
+
+## SENTINEL
+
+
+```yaml
+
+Project Name :
+---------------
+
+SENTINEL
+
+AI Powered Surveillance System
+
+
+Status :
+----------
+
+Production Ready
+
+
+Technology Stack :
+-------------------
+
+Python
+YOLOv8
+OpenCV
+DeepSORT
+FastAPI
+ReactJS
+WebSocket
+
+
+Highlights :
+---------------
+
+✓ 92% Detection Accuracy
+
+✓ Real Time Threat Detection
+
+✓ AI based Surveillance Analytics
+
+✓ Multi Camera Support
+
+✓ Faster Threat Response
+
+✓ Sub 500ms Alert System
+
+
+Domain :
+------------
+
+AI Security
+Computer Vision
+Cyber Security
+Threat Detection
+
+
+```
+
+
+---
+
+
+## Crimson Defense
+
+
+```yaml
+
+Project Name :
+---------------
+
+Crimson Defense
+
+AI Mobile Intrusion Detection System
+
+
+Status :
+-----------
+
+Production Ready
+
+
+Technology Stack :
+-------------------
+
+ReactJS
+NodeJS
+Firebase
+REST APIs
+TCP/IP
+
+
+Features :
+-------------
+
+✓ Malware Detection
+
+✓ Phishing Detection
+
+✓ Rogue WIFI Detection
+
+✓ Network Monitoring
+
+✓ Threat Classification
+
+✓ Security Dashboard
+
+
+Domain :
+-----------
+
+Mobile Security
+Network Security
+Application Security
+AI Security
+
+
+```
+
+
+---
 
 
 
+## ATMAN
 
 
 
+```yaml
+
+Project Name :
+---------------
+
+ATMAN
+
+Web Vulnerability Scanner
+
+
+Status :
+-----------
+
+Production Ready
+
+
+Technology Stack :
+-------------------
+
+Python
+
+BeautifulSoup
+
+SQLite
+
+OWASP Top 10
+
+Requests Library
 
 
 
+Features :
+-------------
+
+
+✓ SQL Injection Detection
+
+✓ Cross Site Scripting Detection
+
+✓ Security Misconfiguration Detection
+
+✓ Vulnerability Reporting
+
+✓ Real Time HTML Reports
+
+✓ PDF Report Generation
 
 
 
+Domain :
+------------
+
+Application Security
+
+OWASP Top 10
+
+Web Security
+
+Vulnerability Assessment
+
+Security Testing
+
+
+```
 
 
 
+---
 
 
+
+# Project Domains
+
+
+
+| Domain | Projects |
+|-------|----------|
+| AI Security | SENTINEL |
+| Mobile Security | Crimson Defense |
+| Application Security | ATMAN |
+| Network Security | Crimson Defense |
+| IoT Security | SENTINEL |
+| Web Security | ATMAN |
+| Threat Detection | SENTINEL |
+| Vulnerability Assessment | ATMAN |
+
+
+
+---
+
+
+
+# Open Source Interests
+
+
+```text
+
+CURRENT INTERESTS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+Application Security
+
+Cloud Security
+
+AI Security
+
+Mobile Security
+
+Container Security
+
+OWASP Top 10
+
+Malware Analysis
+
+Reverse Engineering
+
+Network Security
+
+Secure Software Development
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+MISSION :
+
+Build Secure Applications.
+
+Research Emerging Threats.
+
+Develop Innovative Solutions.
+
+Contribute to Open Source.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
+
+
+
+---
+
+<div align="center">
+
+### Building Secure & Intelligent Systems for Tomorrow.
+
+</div>
+
+---
 
 
 
